@@ -19,3 +19,5 @@ You will also need to select where the items will be printed to. The items are p
 
 # Running
 Click the file called Janescraper.exe after installing java and it should bring up a form asking for a store ID and output path, as well as a 'Get Scrapin!' button. Find your store ID using the instructions above, and select where you want the products printed to. The output is a text file with each item on a line. 
+
+<sub><sup>not for use on iheartjane sites</sup></sub>
